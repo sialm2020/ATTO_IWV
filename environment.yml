@@ -1,0 +1,15 @@
+name: iwv_disdro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pyarrow
+  - netcdf4
+  - ipykernel
+  - pandas
+  - jupyterlab
+  - dask
+  - matplotlib
+  - numpy
+  - xarray
+  - scipy

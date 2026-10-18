@@ -1,0 +1,22 @@
+
+# Dados científicos (não enviar ao GitHub)
+dados/
+processados/
+resultados/
+
+# Arquivos científicos grandes
+*.nc
+*.nc4
+*.parquet
+*.h5
+*.hdf5
+
+# Ambientes Python
+.venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Configurações locais
+.vscode/
